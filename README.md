@@ -1,4 +1,4 @@
-# chat-room-ws-2
+# chat-room-ws
 
 To install dependencies:
 

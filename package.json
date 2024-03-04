@@ -1,7 +1,11 @@
 {
-  "name": "chat-room-ws-2",
+  "name": "chat-room-ws",
   "module": "index.ts",
   "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "bun --watch index.ts"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
